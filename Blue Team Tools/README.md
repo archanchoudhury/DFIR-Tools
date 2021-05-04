@@ -4,6 +4,22 @@
   * Description: Modern implementation of LaBreay Tarpit in Python/Scapy. LaBrea allows you to set up a host that can take over all unused addresses within an IPv4 subnet, creating a low interaction honeypot (of sorts) for network worms and scans.
   * 🔗 https://github.com/dhoelzer/ShowMeThePackets/blob/master/Scapy/LaBrea.py
 
+* AdExplorer
+  * Description: Active Directory Explorer (AD Explorer) is an advanced Active Directory (AD) viewer and editor. You can use AD Explorer to easily navigate an AD database, define favorite locations, view object properties and attributes without having to open dialog boxes, edit permissions, view an object's schema, and execute sophisticated searches that you can save and re-execute.
+  * 🔗 https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer
+
+* Agent Ransack
+  * Description: Agent Ransack is a free file search tool for finding files on your PC or network drives. It has a Lite mode, which is FREE for both personal and commercial use but also a Professional mode that includes optional pay-for features.
+  * 🔗 https://www.mythicsoft.com/agentransack/download/
+
+* Windows Registry Recovery
+  * Description: The best tool for crashed machine registry configuration data recovery and registry backup
+  * 🔗 https://www.mitec.cz/wrr.html
+
+* WhatInStartup
+  * Description: This utility displays the list of all applications that are loaded automatically when Windows starts up. For each application, the following information is displayed: Startup Type (Registry/Startup Folder), Command-Line String, Product Name, File Version, Company Name, Location in the Registry or file system, and more.
+  * 🔗 https://www.nirsoft.net/utils/what_run_in_startup.html
+
 * ShowMeThePackets 
   * Description: Collection of IDS/Network Monitoring scripts and tools covering things from data collection through analysis.
   * 🔗 https://github.com/dhoelzer/ShowMeThePackets
