@@ -8,6 +8,10 @@
   * Description: Active Directory Explorer (AD Explorer) is an advanced Active Directory (AD) viewer and editor. You can use AD Explorer to easily navigate an AD database, define favorite locations, view object properties and attributes without having to open dialog boxes, edit permissions, view an object's schema, and execute sophisticated searches that you can save and re-execute.
   * 🔗 https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer
 
+* HashMyFiles
+  * Description: HashMyFiles is small utility that allows you to calculate the MD5 and SHA1 hashes of one or more files in your system. You can easily copy the MD5/SHA1 hashes list into the clipboard, or save them into text/html/xml file.
+  * 🔗 https://www.nirsoft.net/utils/hash_my_files.html
+
 * Agent Ransack
   * Description: Agent Ransack is a free file search tool for finding files on your PC or network drives. It has a Lite mode, which is FREE for both personal and commercial use but also a Professional mode that includes optional pay-for features.
   * 🔗 https://www.mythicsoft.com/agentransack/download/
