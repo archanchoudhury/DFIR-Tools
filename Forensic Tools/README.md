@@ -8,6 +8,9 @@
   * Description: TestDisk is powerful free data recovery software! It was primarily designed to help recover lost partitions and/or make non-booting disks bootable again when these symptoms are caused by faulty software: certain types of viruses or human error (such as accidentally deleting a Partition Table). Partition table recovery using TestDisk is really easy.
   * 🔗 https://www.cgsecurity.org/wiki/TestDisk
 
+* USBDeview
+  * Description: USBDeview is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
+  * 🔗 https://www.nirsoft.net/utils/usb_devices_view.html 
 
 * AccessData FTK Imager 
   * Description: It's one of the best tool in the market used for Collection of Forensic Images from Machines.
