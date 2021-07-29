@@ -1,8 +1,8 @@
 # Use them Wisely ♟
 
 * ZIP Password Cracker
- * Description: It's a password cracker tool which is used basically to open a locked zip file with rainbow table and use it only on a traget which you have legal authority to do. The Repo owner is not responsible for any bad utilities and the tool will only be used at your sole responsibility.
- * Attached here.
+  * Description: It's a password cracker tool which is used basically to open a locked zip file with rainbow table and use it only on a traget which you have legal authority to do. The Repo owner is not responsible for any bad utilities and the tool will only be used at your sole responsibility.
+  * Attached here.
 * Dumpit 
   * Description: It's a tool used for collection of Memory Images from a Windows Machine
   * 🔗 https://down10.software/download-dumpit/download/
