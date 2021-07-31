@@ -1,0 +1,31 @@
+Video Tutorial Can be found here- https://youtu.be/LVcYOwLqW_Y
+
+========= Get the Navigator Tool in Instance=============
+sudo apt-get update
+sudo apt install git
+git clone https://github.com/mitre-attack/attack-navigator.git
+cd attack-navigator
+ls -l
+
+========= Get the Additional Dependencies Installed=============
+
+cd nav-app/
+sudo apt-get install curl
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+node --version
+npm --version
+sudo npm i -g @angular/cli
+
+========= Install Navigator=============
+
+sudo npm install
+sudo npm run postinstall
+node patch-webpack.js
+
+========= Run Navigator=============
+ng serve --host 0.0.0.0
+Point to your local host or Ec2 Public IP on port 4200
+
+========= Run Navigator as Background Job=============
+nohup ng serve --host 0.0.0.0 &

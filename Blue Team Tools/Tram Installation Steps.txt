@@ -1,0 +1,36 @@
+Video Tutorial Can be found here- https://youtu.be/LVcYOwLqW_Y
+
+========= Get the TRAM Tool in Instance=============
+
+sudo apt-get update
+sudo apt install git
+git clone https://github.com/mitre-attack/tram.git
+
+========= Install the TRAM Tool in Instance=============
+
+sudo su
+python3 --version
+sudo apt install python3-pip
+cd tram
+pip3 install -r requirements.txt
+
+========= Install Additional Requirements=============
+
+mkdir /root/nltk_data
+cd /root/nltk_data
+mkdir tokenizers
+cd tokenizer
+go to https://github.com/nltk/nltk_data/tree/gh-pages/packages/tokenizers
+wget https://github.com/nltk/nltk_data/blob/gh-pages/packages/tokenizers/punkt.zip?raw=true
+apt install unzipcd
+unzip p
+
+========= Run the TRAM Tool=============
+
+cd home/ubuntu/tram/service
+ls -l
+rm data_svc.py
+go to https://github.com/mitre-attack/tram/tree/7d357fd5a6c0435ada9c60e58d17ce887b7b4689
+vi data_svc.py
+Point to your localhost or EC2 public IP on port 9999
+
