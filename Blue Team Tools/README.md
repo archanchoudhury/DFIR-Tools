@@ -1,5 +1,15 @@
 # Use them Wisely ♟
 
+* TRAM
+  * Description: Threat Report ATT&CK® Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK. TRAM is currently in its beta phase and is actively being developed.
+  * https://github.com/mitre-attack/tram/tree/7d357fd5a6c0435ada9c60e58d17ce887b7b4689
+  * Correct installation Steps and commands is attached here. Please refer "Tram Installation Step.txt" file
+
+* ATT&CK Navigator
+  * Description: The ATT&CK Navigator is designed to provide basic navigation and annotation of ATT&CK matrices, something that people are already doing today in tools like Excel. We've designed it to be simple and generic - you can use the Navigator to visualize your defensive coverage, your red/blue team planning, the frequency of detected techniques or anything else you want to do. The Navigator doesn't care - it just allows you to manipulate the cells in the matrix (color coding, adding a comment, assigning a numerical value, etc.). We thought having a simple tool that everyone could use to visualize the matrix would help make it easy to use ATT&CK.
+  * https://github.com/mitre-attack/attack-navigator
+  * Correct installation Steps and commands is attached here. Please refer "Attack-Navigator-Installation Steps.txt" file
+
 * LaBrea.py 
   * Description: Modern implementation of LaBreay Tarpit in Python/Scapy. LaBrea allows you to set up a host that can take over all unused addresses within an IPv4 subnet, creating a low interaction honeypot (of sorts) for network worms and scans.
   * 🔗 https://github.com/dhoelzer/ShowMeThePackets/blob/master/Scapy/LaBrea.py
